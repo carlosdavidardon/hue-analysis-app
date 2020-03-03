@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Porcentaje de tonalidad</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="option_title">Analizar imagen</string>
+
+    <string name="option_take">Tomar fotografía</string>
+    <string name="option_select">Seleccionar de la biblioteca</string>
+    <string name="option_cancel">Cancelar</string>
+
+    <string name="library_title">Seleccione archivo</string>
+
+    <string name="label_low">Severidad: Baja</string>
+    <string name="label_medium">Severidad: Media</string>
+    <string name="label_high">Severidad: Alta</string>
+
+    <string name="color_yellow">Amarillo</string>
+    <string name="color_green">Verde</string>
+
+    <string name="about_title">Acerca de...</string>
+    <string name="about_msg">Aplicación producto de proyecto de investigación IICA-CRIA con el apoyo financiero del Departamento de Agricultura de los Estados Unidos (USDA, por sus siglas en inglés).</string>
+    <string name="about_positive">Ver completo</string>
+    <string name="about_negative">Cancelar</string>
+
+</resources>
