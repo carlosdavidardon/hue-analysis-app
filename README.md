@@ -4,8 +4,8 @@
 
 Iniciar la aplicación se presiona el botón 'Seleccionar imagen'que ofrece dos opciones:
 
-*Tomar fotografía: utiliza la cámara del dispositivo para capturar una imágen.
-*Seleccionar de la biblioteca: carga una imagen que ya existe en el almacenamiento del dispositivo.
+* Tomar fotografía: utiliza la cámara del dispositivo para capturar una imágen.
+* Seleccionar de la biblioteca: carga una imagen que ya existe en el almacenamiento del dispositivo.
 
 Para obtener mejores resultados tomar la fotografía de la hoja sobre un fondo blanco y evitar las condiciones de luminosas extremas (mucha o muy poca iluminación.)
 

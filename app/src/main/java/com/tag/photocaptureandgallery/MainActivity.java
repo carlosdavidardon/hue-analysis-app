@@ -76,7 +76,10 @@ public class MainActivity extends Activity {
 				int c = thumbnail.getPixel(x, y);
 				float hsvColor[] = {0,0,0};
 				Color.colorToHSV(c, hsvColor);
-				if(hsvColor[0]>25 && hsvColor[0]<85){//yellow
+				if ( (Color.red(c)>150 && Color.green(c)>150 && Color.blue(c)>150) ||
+                        (Color.blue(c)!=0 && ((Color.red(c)/Color.blue(c))<1.3 && (Color.green(c)/Color.blue(c))<1.3)) ) {
+					//white
+                }else if(hsvColor[0]>25 && hsvColor[0]<85){//yellow
 					yellow++;
 				}else if(hsvColor[0]>=85 && hsvColor[0]<170){//green
 					green++;
